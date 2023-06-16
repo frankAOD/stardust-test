@@ -2,11 +2,13 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "typeRoots": [ "./typings", "./node_modules/@types"],
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitOverride": true,
+    "resolveJsonModule": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,

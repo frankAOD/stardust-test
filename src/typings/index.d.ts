@@ -1,0 +1,7 @@
+declare module "@nebula.js/sn-bar-chart"
+declare module "@nebula.js/sn-line-chart"
+declare module "@nebula.js/sn-scatter-plot"
+declare module "@nebula.js/sn-table"
+declare module "@nebula.js/sn-sankey-chart"
+declare module "@nebula.js/sn-pivot-table"
+declare module "@nebula.js/sn-map"
